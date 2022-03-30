@@ -1,0 +1,14 @@
+C:\Users\emil code\Desktop\c# experments\EncapsulationHomeTask\EncapsulationHomeTask\bin\Debug\netcoreapp3.1\EncapsulationHomeTask.exe
+C:\Users\emil code\Desktop\c# experments\EncapsulationHomeTask\EncapsulationHomeTask\bin\Debug\netcoreapp3.1\EncapsulationHomeTask.deps.json
+C:\Users\emil code\Desktop\c# experments\EncapsulationHomeTask\EncapsulationHomeTask\bin\Debug\netcoreapp3.1\EncapsulationHomeTask.runtimeconfig.json
+C:\Users\emil code\Desktop\c# experments\EncapsulationHomeTask\EncapsulationHomeTask\bin\Debug\netcoreapp3.1\EncapsulationHomeTask.runtimeconfig.dev.json
+C:\Users\emil code\Desktop\c# experments\EncapsulationHomeTask\EncapsulationHomeTask\bin\Debug\netcoreapp3.1\EncapsulationHomeTask.dll
+C:\Users\emil code\Desktop\c# experments\EncapsulationHomeTask\EncapsulationHomeTask\bin\Debug\netcoreapp3.1\EncapsulationHomeTask.pdb
+C:\Users\emil code\Desktop\c# experments\EncapsulationHomeTask\EncapsulationHomeTask\obj\Debug\netcoreapp3.1\EncapsulationHomeTask.csproj.AssemblyReference.cache
+C:\Users\emil code\Desktop\c# experments\EncapsulationHomeTask\EncapsulationHomeTask\obj\Debug\netcoreapp3.1\EncapsulationHomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil code\Desktop\c# experments\EncapsulationHomeTask\EncapsulationHomeTask\obj\Debug\netcoreapp3.1\EncapsulationHomeTask.AssemblyInfoInputs.cache
+C:\Users\emil code\Desktop\c# experments\EncapsulationHomeTask\EncapsulationHomeTask\obj\Debug\netcoreapp3.1\EncapsulationHomeTask.AssemblyInfo.cs
+C:\Users\emil code\Desktop\c# experments\EncapsulationHomeTask\EncapsulationHomeTask\obj\Debug\netcoreapp3.1\EncapsulationHomeTask.csproj.CoreCompileInputs.cache
+C:\Users\emil code\Desktop\c# experments\EncapsulationHomeTask\EncapsulationHomeTask\obj\Debug\netcoreapp3.1\EncapsulationHomeTask.dll
+C:\Users\emil code\Desktop\c# experments\EncapsulationHomeTask\EncapsulationHomeTask\obj\Debug\netcoreapp3.1\EncapsulationHomeTask.pdb
+C:\Users\emil code\Desktop\c# experments\EncapsulationHomeTask\EncapsulationHomeTask\obj\Debug\netcoreapp3.1\EncapsulationHomeTask.genruntimeconfig.cache
